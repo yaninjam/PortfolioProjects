@@ -1,6 +1,3 @@
-# COMP1730/6730 Project-1.
-# YOUR ANU ID: u7560547
-# YOUR NAME: Yanin Wongtharua
 import decimal as d
 import matplotlib.pyplot as plt
 import math
